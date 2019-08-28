@@ -9,7 +9,7 @@ class Login extends Component {
   }
 
   render() {
-    return ( <div id="firebaseui">1</div> );
+    return ( <div id="firebaseui"></div> );
   }
 }
 
